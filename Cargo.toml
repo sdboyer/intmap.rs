@@ -1,0 +1,4 @@
+[package]
+name = "intmap"
+version = "0.1.0"
+authors = ["Sam Boyer <tech@samboyer.org>"]
